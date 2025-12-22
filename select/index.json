@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "花泡沫",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-22T03:36:51.620750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花泡沫",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/01_花泡沫_ロクデナシ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花泡沫",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/02_花泡沫_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花泡沫",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_花泡沫_ロクデナシ.txt"
+    }
+  ]
+}
